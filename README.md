@@ -6,7 +6,7 @@
 
 ![Paulo Zapotoczny GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloZapotoczny&show_icons=true&theme=radical)
 
-##Tecnologias que uso no meu dia a dia
+## Tecnologias que uso no meu dia a dia
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-C-Sharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
