@@ -4,7 +4,6 @@
   <a href = "mailto:paulorfz1122@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-![Paulo Zapotoczny GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloZapotoczny&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloZapotoczny)](https://github.com/PauloZapotoczny/github-readme-stats)
 
 ## Tecnologias que uso no meu dia
