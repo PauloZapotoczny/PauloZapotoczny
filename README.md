@@ -6,8 +6,6 @@
   <a href = "mailto:paulorfz1122@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloZapotoczny)](https://github.com/PauloZapotoczny/github-readme-stats)
-
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br>
@@ -20,5 +18,7 @@
   <img align="center" alt="Paulo-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Paulo-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloZapotoczny)](https://github.com/PauloZapotoczny/github-readme-stats)
 
  
