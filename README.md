@@ -1,4 +1,4 @@
-### Olá! Eu sou o Paulo Zapotoczny.
+# Olá! Eu sou o Paulo Zapotoczny.
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-C-Sharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
   <img align="center" alt="Paulo-DotNet-Core" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
