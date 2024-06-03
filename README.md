@@ -5,8 +5,7 @@
 </div>
 
 ![Paulo Zapotoczny GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloZapotoczny&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloZapotoczny&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloZapotoczny)](https://github.com/PauloZapotoczny/github-readme-stats)
 
 ## Tecnologias que uso no meu dia a dia
 
